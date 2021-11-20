@@ -1,6 +1,8 @@
 # Deep multi-instance learning of cancerous lymphocytosis
 
-Joint work with Célia C.. Code for challenge of the course "Deep Learning for Medical Imaging" taught in the MVA master in 2020/2021. The challenge consisted in using multi-instance learning to diagnosise cancerous lymphocytosis using bags of blood smear images.
+Joint work with Célia C.
+
+Code for the challenge of the course "Deep Learning for Medical Imaging" taught in the MVA master in 2020/2021. The challenge consisted in using multi-instance learning to diagnosise cancerous lymphocytosis using bags of blood smear images.
 
 Link of the challenge: https://www.kaggle.com/c/3md3070-dlmi
 
